@@ -12,4 +12,4 @@
 >* padding
 >* margin
 ### tags: `網頁操作(進入網站後請先重新整理)`
-> https://yizelee.github.io/CSS/Navigation/three_columns.html
+> https://yizelee.github.io/CSS/three_columns/three_columns.html
