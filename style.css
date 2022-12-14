@@ -1,0 +1,32 @@
+/* reset邊界 */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 設定nav標籤 */
+nav{
+    background-color: black;  /*背景顏色*/
+    text-align: center;         /*文字位置*/
+    font-size: 0;               /*文字大小*/
+}
+nav a{
+    background-color: black;
+    color: #FFFFFF;
+    font-size: 20px;
+    /* 文字特效 */
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 20px;
+    /* transition 搭配 :hover使用 */
+    transition: 0.2s;
+}
+nav a:hover{
+    background-color: orange;
+}
+/* 設定h1標籤 */
+h1{
+    color: blue;
+}
+p{
+    color: #999999;
+}
