@@ -13,4 +13,4 @@
 >* padding
 >* transition
 ### tags: `網頁操作(進入網站後請先重新整理)`
->https://yizelee.github.io/Javascript/Blog/blog.html
+>hhttps://yizelee.github.io/CSS/Navigation/01.html
