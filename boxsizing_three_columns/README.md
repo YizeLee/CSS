@@ -13,4 +13,4 @@
 >* margin
 >* box-sizing: border-box
 ### tags: `網頁操作(進入網站後請先重新整理)`
-> https://yizelee.github.io/CSS/boxsizing_three_columns/boxsizing_three_columns.html
+> https://yizelee.github.io/CSS/boxsizing_three_columns/boxsizing_threecolumns.html
