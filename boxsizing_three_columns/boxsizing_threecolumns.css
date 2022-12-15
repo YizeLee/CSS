@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrap{
+    width: 960px;
+    background-color: #FFbacd;
+    margin: auto;
+}
+.item{
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    background-color: #feffb2;
+    border: 2px solid #000;
+    box-sizing: border-box;
+}
+.item img{
+    width: 100%;
+}
+.clearfix{
+    clear: both;
+    background-color: #0f0;
+}
